@@ -1,0 +1,21 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_url": "mysql+pymysql://root:@localhost/happy coding",
+        "prod_url": "mysql+pymysql://root:@localhost/happy coding",
+        "fb_url": "https://facebook.com/happycoding",
+        "tw_url": "https://twitter.com/happycoding",
+        "gh_url": "https://github.com/happycoding",
+        "blog_name": "Happy Coding",
+        "tag_line": "The Programmer",
+        "sub_tagline": "A Blog liked by coaders",
+        "gmail-user": "sudipsharma20287@gmail.com",
+        "gmail-password": "sudipparbat@1234567890",
+        "about_text": "Hi this is sudip and i will help you to go through the python programming language !",
+        "no_of_post": 3,
+        "login_image": "login.svg",
+        "admin-user": "sudip022",
+        "admin_password": "sudip12345",
+        "upload_location": "D:\\PROGRAMMING\\flask\\upload_file"
+    }
+}
